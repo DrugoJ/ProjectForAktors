@@ -1,0 +1,15 @@
+com\company\webproject\controller\session\AbstractFacade.class
+com\company\webproject\entites\Client_.class
+com\company\webproject\controller\OrderServlet.class
+com\company\webproject\controller\LoginServlet.class
+com\company\webproject\controller\session\ClientFacade.class
+com\company\webproject\entites\Client.class
+com\company\webproject\controller\session\ProductFacade.class
+com\company\webproject\controller\session\OrderFacade.class
+com\company\webproject\entites\Order.class
+com\company\webproject\entites\Order_.class
+com\company\webproject\entites\User.class
+com\company\webproject\controller\session\UserFacade.class
+com\company\webproject\entites\Product.class
+com\company\webproject\entites\Product_.class
+com\company\webproject\entites\User_.class
